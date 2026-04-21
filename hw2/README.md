@@ -74,4 +74,4 @@ cd ./output && zip pred.zip pred.json
 
 ## Performance Snapshot
 
-<!-- Insert leaderboard screenshot here -->
+![image.png](https://github.com/Rain016/NYCU-Computer-Vision-2026-Spring/edit/main/hw2/hw2_leaderboard.png)
