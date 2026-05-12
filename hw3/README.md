@@ -55,3 +55,4 @@ zip submission.zip test-results.json
 
 Public leaderboard AP50: **0.3933**
 
+![Leaderboard](hw3_leaderboard.jpg)
