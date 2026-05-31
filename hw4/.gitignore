@@ -1,0 +1,8 @@
+data/
+checkpoints/
+output/
+report/gen_report.py
+report/HW4_Report.docx
+report/qualitative.png
+__pycache__/
+*.pyc
