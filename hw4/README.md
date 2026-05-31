@@ -84,13 +84,4 @@ The output `.npz` file stores restored images as a dictionary with keys `'0.png'
 
 ## Performance Snapshot
 
-Public leaderboard result (CodaBench):
-
 ![Performance Snapshot](Performance_Snapshot.png)
-
-| Method | Val PSNR | Leaderboard PSNR |
-|---|---|---|
-| PromptIR (300 epochs) | 31.35 dB | ~31.35 dB |
-| PromptIR + 8-fold TTA | — | **31.66 dB** |
-
-![Training Curve](report/training_curve.png)
